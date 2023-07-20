@@ -4,7 +4,7 @@ The minimal finite state machine programme with the classes State and MinDict is
 
 ***Executing the programme: the Welcome menu***
 
-To call the programme, the user has to enter *python3 minimal-automaton.py* in the command line. A welcome menu with two options will then be displayed. If the user enters *1*, they  will have to introduce the name of a file containing a word list. This way, a new automaton from will be created.  In the event that the user had already started the programme in the past, they would be able to load the existing file with the automaton by entering *2*.
+To call the programme, the user has to enter *python3 minimal-automaton.py* in the command line. A welcome menu with two options will then be displayed. If the user enters *1*, they  will have to introduce the name of a file containing a word list. This way, a new automaton will be created.  In the event that the user had already started the programme in the past, they would be able to load the existing file with the automaton by entering *2*.
 
 The file with the word list contains words separated line by line with new lines.
 
